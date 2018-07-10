@@ -1,0 +1,3 @@
+Python v2.7 script to download .nessus files of your choosing
+than combine all files into merger.nessus file
+than finally upload the merged file back to the URL/Server
